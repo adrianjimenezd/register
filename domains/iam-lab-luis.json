@@ -1,9 +1,11 @@
 {
+  "description": "Personal IAM portfolio and lab projects (SAML federation, ForgeRock, Multi-IdP, OAuth/OIDC).",
+  "repo": "https://github.com/adrianjimenezd/iam-lab-luis",
   "owner": {
     "username": "adrianjimenezd",
     "email": "manzambo42@gmail.com"
   },
   "record": {
-    "CNAME": "temporary-placeholder.cfargotunnel.com"
+    "CNAME": "adrianjimenezd.github.io"
   }
 }
